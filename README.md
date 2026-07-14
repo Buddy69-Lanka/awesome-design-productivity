@@ -1,7 +1,7 @@
 # 🚀 Awesome Design & Productivity Tools
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of the best **free** tools for designers, developers, creators, marketers, and productivity enthusiasts.
+> A curated collection of the best **free** tools for designers, developers, creators, marketers, and productivity enthusiasts. No freemium, no paywalls, no forced sign-ups—just high-quality tools that save time and improve workflows.
 
 Discover hand-picked tools that save time, improve workflows, and help you build better products—from code screenshots and resume builders to color palettes, typography, AI, SEO, and developer utilities.
 
