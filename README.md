@@ -54,6 +54,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 
 * **[Arabify.io](https://arabify.io/)** — A free **Arabic calligraphy generator** and logo maker. Create beautiful Islamic art, animated typography, and SVG/PNG brand wordmarks with full harakat (diacritics).
 * **[Khatly.com](https://khatly.com/)** — A browser-based **Arabic calligraphy design studio**. Access 28 traditional and modern Arabic fonts to generate stunning typography with live color controls.
+* **[Typing Words GIF](https://typingwordsgif.com/)** — A free **typing text GIF maker**. Type words, customize style, and export an animated GIF entirely in the browser with no signup.
 * **[Coolors](https://coolors.co/)** — A super-fast color palette generator. Press the spacebar to instantly get beautiful color combinations.
 * **[Color Hunt](https://colorhunt.co/)** — A free and open platform for color inspiration with thousands of trendy hand-picked palettes.
 * **[Lucide](https://lucide.dev/)** — A beautiful, consistent, and open-source icon toolkit.
